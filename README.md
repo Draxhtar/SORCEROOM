@@ -10,7 +10,7 @@
 5. [Attributes](#attributes)
 
 ## About the Project
-Sorceroom is a fast-paced roguelike action game where players clear rooms filled with enemies to unlock power-ups and progress through a magical dungeon. Defeating all enemies causes the magic system of the room to collapse, opening doors and granting access to new areas and upgrades.
+Sorceroom is an action game where players clear rooms filled with enemies to unlock power-ups and progress through a magical dungeon. Defeating all enemies causes the magic system of the room to collapse, opening doors and granting access to new areas and upgrades.
 
 ## How it Fits the Theme
 In Sorceroom, each room represents a mini-dungeon where magic is used to lock players in until all creatures are defeated. Once the enemies are gone, the magic system is disrupted, opening the doors and revealing treasure chests with power-ups.
@@ -27,5 +27,5 @@ In Sorceroom, each room represents a mini-dungeon where magic is used to lock pl
 - Pre-made models for enemies and environment, with custom assets created for sound, animation, and music.
 
 ## Attributes
-FPS Controller by Dani
+FPS Controller by Dani:
 https://www.youtube.com/watch?v=XAC8U9-dTZU
